@@ -1,6 +1,11 @@
 # Express + TS Template
 <b>⚠ WORK IN PROGRESS </b>
 
+## Installation
+```bash
+npx degit harsh07may/express-ts
+```
+
 The project contains an `Express+TS` project with several dependencies including `bcryptjs`, `dotenv`, `jsonwebtoken`, `mongoose`, and `ts-node-dev`. This folder is responsible for the backend of the application.
 
 Before running the server, make sure to set up your environment variables. Create a `.env` file in the `server` folder and define the necessary variables such as database connection URI, JWT secret, etc.
